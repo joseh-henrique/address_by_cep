@@ -32,5 +32,5 @@ module AddressByCep
       migration_template 'migration.rb', "db/migrate/create_table_addresses.rb"
     end
        
-  end
+  end 
 end
